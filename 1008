@@ -1,0 +1,3 @@
+A=list(map(int, input("정수 두 개를 입력하시오.").split()))
+B=A[0]/A[1]
+print(B)
