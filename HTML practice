@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>HTML 해보기</h1>
+    <h4><em>아직 초반이에요</em></h4>
+    <a href="https://www.instagram.com/아이디">나에요!</a>
+    <img src="dog.jpg" width="100" height="100">
+    <button>날 눌러봐요!</button>
+  </body>
+</html>
